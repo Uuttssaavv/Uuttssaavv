@@ -12,4 +12,4 @@ I'm a Full Stack Mobile Application Developer 📱 💻
 - 📫 How to reach me: [My portfolio site](https://www.utsavghimire.com.np) , [Facebook](https://www.facebook.com/theutsavg) and [Whatsapp](https://api.whatsapp.com/send/?phone=%2B9779815962697&text&app_absent=0)
 
 
-![Utsav's Profile Visit](https://komarev.com/ghpvc/?username=Uuttssaavv&color=green&label=PROFILE+VIEWS)
+![Utsav's Profile Visit](https://komarev.com/ghpvc/?username=Uuttssaavv&color=green&label=Today's+Profile+Views)
