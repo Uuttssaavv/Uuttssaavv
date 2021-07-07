@@ -2,7 +2,7 @@
 
 I'm a Full Stack Mobile Application Developer 📱 💻
 
-- 🔭 I’m currently working as Freelance Flutter Developer.
+- 🔭 I’m currently working as Flutter Developer.
 - ☕ I’m learning to write scalable and best performing mobile applications.
 - 🧑‍💻 I’m looking to collaborate on open source projects.
 - 💬 Ask me about [Flutter](https://flutter.dev) , [Dart](https://dart.dev) and [Django](https://www.django-rest-framework.org/).
