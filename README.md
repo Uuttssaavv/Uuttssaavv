@@ -6,11 +6,12 @@ I'm Full Stack Mobile Application Developer 📱 💻.
 - 😎 Started learning [Flutter](https://flutter.dev) since it's first stable version(v1.0.0).
 - ☕ I’m learning to write scalable and best performing mobile applications.
 - 🧑‍💻 I’m looking to collaborate on open source projects.
-- 💬 Ask me about [Flutter](https://flutter.dev)  [Dart](https://dart.dev)  [Django](https://www.django-rest-framework.org/) and [React.js](https://reactjs.org).
+- 💬 Ask me about: &emsp; [<img alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />](https://flutter.dev)&emsp;&emsp;  [<img alt="Dart" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />](https://dart.dev) &emsp;&emsp; [<img alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />](https://www.django-rest-framework.org/)&emsp; &emsp;[<img alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />](https://reactjs.org)
 - 🤔 I’m looking for remote job.
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I am an introvert acting like i am not
 - 💻 Most used line of code `git commit -m 'initial commit'`
+
 
 
 #### Connect with me:
@@ -18,6 +19,20 @@ I'm Full Stack Mobile Application Developer 📱 💻.
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/theutsavg)
 [![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](https://m.me/theutsavg)
 <br/>
+
+
+#### Coding Stats
+
+<!--START_SECTION:waka-->
+```text
+Flutter&Dart    7 hrs 41 mins   ████████████████████░░░░░   80.29 % 
+React.js        2 hr 27 mins    ███████░░░░░░░░░░░░░░░░░░   09.61 % 
+Django          1 hr 48 mins    ██████░░░░░░░░░░░░░░░░░░░   07.63 % 
+Html&css        12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+pubspec.yaml    3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+```
+<!--END_SECTION:waka-->
+
 
 #### Languages and Frameworks
 
