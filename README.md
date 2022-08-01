@@ -1,6 +1,6 @@
 ## Hi I'm Utsav <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Full Stack Mobile Application Developer 📱 💻.
+I'm Software Engineer 📱 💻.
 
 - 🔭 I’m currently working as Flutter Developer.
 - 😎 Started learning [Flutter](https://flutter.dev) since it's first stable version(v1.0.0).
@@ -16,29 +16,20 @@ I'm Full Stack Mobile Application Developer 📱 💻.
 
 #### Connect with me:
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://utsavghimire.com.np)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/theutsavg)
-[![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](https://m.me/theutsavg)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theutsavg/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/sendphone=9779815962697)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@theutsavg1)
 <br/>
 
 
-#### Coding Stats
-
-<!--START_SECTION:waka-->
-```text
-Flutter&Dart    7 hrs 41 mins   ████████████████████░░░░░   80.29 % 
-React.js        2 hr 27 mins    ███████░░░░░░░░░░░░░░░░░░   09.61 % 
-Django          1 hr 48 mins    ██████░░░░░░░░░░░░░░░░░░░   07.63 % 
-Html&css        12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-pubspec.yaml    3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-```
-<!--END_SECTION:waka-->
+![Utsav's Github stats](https://github-readme-stats.vercel.app/api?username=Uuttssaavv&show_icons=true&count_private=true&theme=tokyonight)
 
 
 #### Languages and Frameworks
 
 <!-- TODO: Make technologies links takes you to repositories -->
-[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](#) [![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](#) [![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)](#)   [![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)](#) 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)   
+[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](#) [![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](#) [![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)](#)   [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](#) 
+[![React Badge](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](#)   
 
 #### Exploring
 [![Selenium](https://img.shields.io/static/v1?style=for-the-badge&message=Solidity&color=363636&logo=Solidity&logoColor=FFFFFF&label=)](#) [![Web3](https://img.shields.io/badge/Web3-%230175C2.svg?style=for-the-badge&logo=Web3&logoColor=white)](#)
