@@ -14,36 +14,34 @@ I'm Software Engineer 📱 💻.
 
 
 
-#### Connect with me:
+### Connect with me:
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://utsavghimire.com.np)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theutsavg/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=9779815962697)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@theutsavg1)
 <br/>
 
+### Stats
 
 ![Utsav's Github stats](https://github-readme-stats.vercel.app/api?username=Uuttssaavv&show_icons=true&count_private=true&theme=tokyonight)</br>
 ![Utsav's Profile Visit](https://komarev.com/ghpvc/?username=Uuttssaavv&color=green&label=Profile+Views)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Uuttssaavv&theme=radical" alt="Utsav ghimire" /></p>
 
-#### Languages and Frameworks
+### Certifications
+<p>
+<a href="https://www.freecodecamp.org/certification/fcc2de20ed9-6660-4530-bfbc-1525e1dd1a46/javascript-algorithms-and-data-structures" target="_blank"><img align="center" src="dsa_js.png" alt="Utsav ghimire" height="150px"  /></a>
+<a href="https://learningconsole.amazonadvertising.com/student/award/jSBXZ14JdTLcrYwwZ3ouGxvm" target="_blank"><img align="center" src="amazon_dsp.png" alt="Utsav ghimire" height="150px"/></a>
+<img align="center" src="Utsav G.png" alt="Utsav ghimire" height="150px"/>
+</p>
+
+### Languages and Frameworks
 
 <!-- TODO: Make technologies links takes you to repositories -->
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](#) [![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](#) [![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)](#)   [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](#) 
 [![React Badge](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](#)   
-
-#### Exploring
-[![Selenium](https://img.shields.io/static/v1?style=for-the-badge&message=Solidity&color=363636&logo=Solidity&logoColor=FFFFFF&label=)](#) [![Web3](https://img.shields.io/badge/Web3-%230175C2.svg?style=for-the-badge&logo=Web3&logoColor=white)](#)
-[![GoLang](https://img.shields.io/static/v1?style=for-the-badge&message=Go&color=00ADD8&logo=Go&logoColor=FFFFFF&label=)](#)
-### Design
-[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](#)
-
-#### IDE
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](#)
-[![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)](#)
-[![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)](#)
-#### Version Controls
-
-[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](#) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](#)
-
-
+### Articles
+[Dependency Injection in flutter](https://medium.com/p/afd560c06750)</br>
+[Why use map function instead of loops?](https://theutsavg1.medium.com/flutter-why-use-map-function-instead-of-loops-8a22c2444ece)</br>
+[Simple light animation using flutter](https://theutsavg1.medium.com/creating-beautiful-bulb-animation-with-flutter-3acda2a2c9e7)</br>
+[Flutter animations](https://theutsavg1.medium.com/zero-to-hero-in-flutter-animations-3c259834e83b)</br>
+[What is Blockchain?](https://blog.cryptostars.is/blockchain-the-future-619b81fa75e3)
