@@ -22,8 +22,9 @@ I'm Software Engineer 📱 💻.
 <br/>
 
 
-![Utsav's Github stats](https://github-readme-stats.vercel.app/api?username=Uuttssaavv&show_icons=true&count_private=true&theme=tokyonight)
-
+![Utsav's Github stats](https://github-readme-stats.vercel.app/api?username=Uuttssaavv&show_icons=true&count_private=true&theme=tokyonight)</br>
+![Utsav's Profile Visit](https://komarev.com/ghpvc/?username=Uuttssaavv&color=green&label=Profile+Views)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Uuttssaavv&theme=radical" alt="Utsav ghimire" /></p>
 
 #### Languages and Frameworks
 
@@ -46,4 +47,3 @@ I'm Software Engineer 📱 💻.
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](#) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](#)
 
 
-![Utsav's Profile Visit](https://komarev.com/ghpvc/?username=Uuttssaavv&color=green&label=Profile+Views)
