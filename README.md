@@ -44,5 +44,5 @@ I'm Software Engineer 📱 💻.
 [Why use map function instead of loops?](https://theutsavg1.medium.com/flutter-why-use-map-function-instead-of-loops-8a22c2444ece)</br>
 [Simple light animation using flutter](https://theutsavg1.medium.com/creating-beautiful-bulb-animation-with-flutter-3acda2a2c9e7)</br>
 [Flutter animations](https://theutsavg1.medium.com/zero-to-hero-in-flutter-animations-3c259834e83b)</br>
-[What is Blockchain?](https://blog.cryptostars.is/blockchain-the-future-619b81fa75e3)
-[Generating clean architecture files with Dart](https://twitter.com/theutsavg/status/1565590503587848194?s=21&t=Ypgv2Ib6la4dlyyJXMG1rQ)
+[What is Blockchain?](https://blog.cryptostars.is/blockchain-the-future-619b81fa75e3)</br>
+[Generating clean architecture files with Dart](https://twitter.com/theutsavg/status/1565590503587848194?s=21&t=Ypgv2Ib6la4dlyyJXMG1rQ)</br>
