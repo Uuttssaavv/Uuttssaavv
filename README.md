@@ -15,6 +15,7 @@ I'm Software Engineer 📱 💻.
 
 
 ### Connect with me:
+[![Linktree](https://img.shields.io/badge/Linktree-%23000000.svg?style=for-the-badge&logo=linktree&logoColor=#FF7139)](https://linktr.ee/theutsavg)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://utsavghimire.com.np)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theutsavg/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=9779815962697)
