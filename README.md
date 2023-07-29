@@ -56,6 +56,7 @@
     - ##### [Interceptors in Flutter](https://medium.com/@theutsavg1/flutter-intercept-your-requests-8113ef39b4d9)</br>
     - ##### [Background tasks in Flutter](https://medium.com/@theutsavg1/flutter-background-tasks-dda02f98182)</br>
     - ##### [Managing Sessions in Flutter](https://medium.com/@theutsavg1/flutter-managing-sessions-13fe3f0850dc)</br>
+    - ##### [Architectural overview of Flutter](https://medium.com/@theutsavg1/how-does-flutter-work-fbbc320d185d)</br>
 - #### Go
     -  ##### [Go Clean Architecture with GIN and GORM](https://medium.com/@theutsavg1/developing-restful-api-with-go-and-gin-with-clean-architecture-61c526d42876)</br>
     -  ##### [Microservices in Go](https://github.com/Uuttssaavv/go-microservices)</br>
