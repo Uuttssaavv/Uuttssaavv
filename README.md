@@ -1,7 +1,7 @@
 ## Hi I'm Utsav <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 
-
+![Utsav's Profile Visit](https://komarev.com/ghpvc/?username=Uuttssaavv&color=green&label=Profile+Views)<br/>
 <img align="center" src="lnkd.jpeg" alt="Utsav ghimire" height="150px"/>
 
 
@@ -25,7 +25,7 @@
 ### Stats
 
 ![Utsav's Github stats](https://github-readme-stats.vercel.app/api?username=Uuttssaavv&show_icons=true&count_private=true&theme=tokyonight)</br>
-![Utsav's Profile Visit](https://komarev.com/ghpvc/?username=Uuttssaavv&color=green&label=Profile+Views)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Uuttssaavv&theme=radical" alt="Utsav ghimire" /></p>
 
 ### Certifications
 <p>
