@@ -26,7 +26,6 @@
 
 ![Utsav's Github stats](https://github-readme-stats.vercel.app/api?username=Uuttssaavv&show_icons=true&count_private=true&theme=tokyonight)</br>
 ![Utsav's Profile Visit](https://komarev.com/ghpvc/?username=Uuttssaavv&color=green&label=Profile+Views)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Uuttssaavv&theme=radical" alt="Utsav ghimire" /></p>
 
 ### Certifications
 <p>
